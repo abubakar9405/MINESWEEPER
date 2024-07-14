@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <chrono>
 using namespace std;
+//checking a git change 
 //preprocessors  macros best way to define constant
 #define BEGINNER 0
 #define INTERMEDIATE 1
